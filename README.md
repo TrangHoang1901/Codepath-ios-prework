@@ -18,9 +18,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://drive.google.com/file/d/1sww7tFIQsEpWy8Fv9MLPqaNfUopr5Gqb/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/IYrCFN7' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Link if the link above not work (https://drive.google.com/file/d/1sww7tFIQsEpWy8Fv9MLPqaNfUopr5Gqb/view?usp=sharing)
+Link if the link above not work (https://imgur.com/a/IYrCFN7)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
