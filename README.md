@@ -20,6 +20,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://drive.google.com/file/d/1sww7tFIQsEpWy8Fv9MLPqaNfUopr5Gqb/view?usp=sharing' width='' alt='Video Walkthrough' />
 
+<img src='https://drive.google.com/file/d/1sww7tFIQsEpWy8Fv9MLPqaNfUopr5Gqb/view?usp=sharing' />
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
