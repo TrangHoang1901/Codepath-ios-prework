@@ -49,6 +49,7 @@
 		396AD80D2A403A9B008F60BF /* Sample1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Sample1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		396AD8112A403A9B008F60BF /* Sample1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample1UITests.swift; sourceTree = "<group>"; };
 		396AD8132A403A9B008F60BF /* Sample1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		396AD8202A57C3FC008F60BF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		396AD7E42A403A9A008F60BF = {
 			isa = PBXGroup;
 			children = (
+				396AD8202A57C3FC008F60BF /* README.md */,
 				396AD7EF2A403A9A008F60BF /* Sample1 */,
 				396AD8062A403A9B008F60BF /* Sample1Tests */,
 				396AD8102A403A9B008F60BF /* Sample1UITests */,
